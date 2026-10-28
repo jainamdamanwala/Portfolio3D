@@ -1,0 +1,1197 @@
+[
+  {
+    "number": 42,
+    "id": "project-42",
+    "title": "2D Game Development – Paradise Game Studio",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Published · Two 2D games",
+    "description": "Designed, developed, and published two complete 2D games. Worked on gameplay mechanics, player interaction, UI systems, game logic, testing, optimization, and end-to-end deployment.",
+    "tags": [
+      "Unity",
+      "C#"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Paradise: Two 2D Games",
+    "short": [
+      "Paradise: Two",
+      "2D Games"
+    ]
+  },
+  {
+    "number": 43,
+    "id": "project-43",
+    "title": "3D Game Development – Paradise Game Studio",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Published · Two 3D games",
+    "description": "Designed, developed, and published two 3D games, taking responsibility for core gameplay mechanics and deployment. Implemented interactive environments, player/game-object behavior, UI, physics-based functionality, and camera systems.",
+    "tags": [
+      "Unity",
+      "C#",
+      "Blender"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Paradise: Two 3D Games",
+    "short": [
+      "Paradise: Two",
+      "3D Games"
+    ]
+  },
+  {
+    "number": 44,
+    "id": "project-44",
+    "title": "3D Vehicle / Car Mechanics System",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Paradise Game Studio · Gameplay system",
+    "description": "Developed car-driving mechanics for a Unity game, including vehicle movement and player controls. Integrated the vehicle system with the game’s camera and other core gameplay functionality.",
+    "tags": [
+      "Unity",
+      "C#",
+      "Unity Physics"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Unity Vehicle Mechanics",
+    "short": [
+      "Unity",
+      "Vehicle Mechanics"
+    ]
+  },
+  {
+    "number": 45,
+    "id": "project-45",
+    "title": "Physics-Based Swing Mechanics System",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Paradise Game Studio · Gameplay system",
+    "description": "Implemented a swing-based gameplay mechanic using Unity’s physics and C# scripting. Worked on player movement, physics interactions, controls, and integration into the larger game environment.",
+    "tags": [
+      "Unity",
+      "C#"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Physics Swing Mechanics",
+    "short": [
+      "Physics",
+      "Swing Mechanics"
+    ]
+  },
+  {
+    "number": 46,
+    "id": "project-46",
+    "title": "Third-Person / Gameplay Camera System",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Paradise Game Studio · Gameplay system",
+    "description": "Developed camera functionality for 3D gameplay, including camera positioning, movement, player tracking, and integration with character/vehicle mechanics.",
+    "tags": [
+      "Unity",
+      "C#"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Gameplay Camera System",
+    "short": [
+      "Gameplay",
+      "Camera System"
+    ]
+  },
+  {
+    "number": 47,
+    "id": "project-47",
+    "title": "Unity Game UI System",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Paradise Game Studio · Gameplay system",
+    "description": "Designed and implemented user-interface components for games, connecting menus and gameplay UI elements to underlying C# game logic.",
+    "tags": [
+      "Unity UI",
+      "C#"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Unity Game UI",
+    "short": [
+      "Unity",
+      "Game UI"
+    ]
+  },
+  {
+    "number": 48,
+    "id": "project-48",
+    "title": "Unity AI Chess Game",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Game project · AI exploration",
+    "description": "Worked on an AI-based chess implementation with a ChessAI/Chessboard architecture, legal-move generation, board-state handling, and computer-controlled moves. Explored moving from basic/random AI toward Minimax, Alpha-Beta Pruning, and board evaluation for stronger gameplay.",
+    "tags": [
+      "Unity",
+      "C#",
+      "AI algorithms"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Unity AI Chess",
+    "short": [
+      "Unity",
+      "AI Chess"
+    ]
+  },
+  {
+    "number": 49,
+    "id": "project-49",
+    "title": "Unity Sudoku Game",
+    "group": "games",
+    "category": "Game Development",
+    "status": "Game project · Implementation & design",
+    "description": "Worked on a Sudoku implementation featuring a 9×9 board and puzzle generation. Plans and design work covered interactive UI, input validation, puzzle solving, hints, and a timer; these features are not presented as completed.",
+    "tags": [
+      "Unity",
+      "C#"
+    ],
+    "diagram": [
+      "Player input",
+      "Game logic",
+      "Interactive play"
+    ],
+    "displayTitle": "Unity Sudoku",
+    "short": [
+      "Unity",
+      "Sudoku"
+    ]
+  },
+  {
+    "id": "interactive",
+    "title": "Interactive 3D Portfolio",
+    "short": [
+      "Interactive",
+      "3D Portfolio"
+    ],
+    "category": "INTERACTIVE / GAME DEVELOPMENT",
+    "status": "Personal adaptation · 2026",
+    "description": "A playable portfolio built on Bruno Simon’s open-source driving world. Explore career and project spaces with keyboard, touch, and gamepad controls. This adaptation personalizes the project exhibits, résumé, navigation, color palette, and 3D name. The original vehicle physics, rendering systems, and environment are credited to Bruno Simon.",
+    "tags": [
+      "JavaScript",
+      "Three.js",
+      "Rapier",
+      "Vite"
+    ],
+    "url": "/",
+    "cta": "Explore the world",
+    "diagram": [
+      "Input",
+      "Physics + scene",
+      "Render loop"
+    ],
+    "number": null,
+    "group": "games",
+    "displayTitle": "Interactive 3D Portfolio"
+  },
+  {
+    "number": 1,
+    "id": "project-01",
+    "title": "Credit Risk System Enhancement",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Professional project",
+    "description": "Enhanced a financial credit-risk platform by optimizing Oracle/MySQL queries through indexing and caching, improving retrieval performance by roughly 25%. Developed Spring Boot microservices, REST APIs, Hibernate/JDBC data access, ActiveMQ messaging, and Kafka/Spark Streaming pipelines for real-time risk processing. Also worked with React/AngularJS front ends, OAuth security, JUnit testing, and SDLC/JIRA processes.",
+    "tags": [
+      "Spring Boot",
+      "ActiveMQ",
+      "Kafka",
+      "Spark Streaming",
+      "React"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "Credit Risk System",
+    "short": [
+      "Credit",
+      "Risk System"
+    ]
+  },
+  {
+    "number": 2,
+    "id": "project-02",
+    "title": "Credit Authorization & Fraud Detection Platform",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Capital One",
+    "description": "Worked on backend services supporting credit authorization, transaction processing, and fraud/risk detection. Developed Java/Spring Boot microservices and incorporated AI/ML capabilities for transaction monitoring and rule-learning. Used cloud-native deployment and MLOps technologies including AWS, Docker, MLflow, Jenkins, Azure DevOps, and infrastructure automation.",
+    "tags": [
+      "Spring Boot",
+      "MLflow",
+      "Jenkins",
+      "Azure DevOps",
+      "AWS"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "Credit & Fraud Platform",
+    "short": [
+      "Credit &",
+      "Fraud Platform"
+    ]
+  },
+  {
+    "number": 3,
+    "id": "project-03",
+    "title": "LLM-Based Transaction Monitoring & Rule Learning",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Capital One",
+    "description": "Applied LLM/AI techniques to financial transaction monitoring and risk-related workflows, with an emphasis on learning or improving rules from transaction patterns and supporting intelligent risk/fraud decision-making.",
+    "tags": [
+      "Backend",
+      "Cloud systems"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "LLM Rule Learning",
+    "short": [
+      "LLM",
+      "Rule Learning"
+    ]
+  },
+  {
+    "number": 4,
+    "id": "project-04",
+    "title": "Prime Video Metadata Classification & Summarization",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Amazon Prime Video / MGM Studios",
+    "description": "Developed ML/NLP solutions for automatically understanding, classifying, and summarizing entertainment metadata. Worked with large-scale content datasets and technologies such as TensorFlow, PyTorch, Databricks, and cloud-based ML infrastructure.",
+    "tags": [
+      "Databricks",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "Prime Video Metadata",
+    "short": [
+      "Prime",
+      "Video Metadata"
+    ]
+  },
+  {
+    "number": 5,
+    "id": "project-05",
+    "title": "Prime Video Recommendation & Engagement ML",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Amazon",
+    "description": "Worked on machine-learning solutions designed to improve content discovery and engagement. The project involved using content and user-related signals to support recommendations and personalization within entertainment platforms.",
+    "tags": [
+      "Backend",
+      "Cloud systems"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "Recommendation ML",
+    "short": [
+      "Recommendation",
+      "ML"
+    ]
+  },
+  {
+    "number": 6,
+    "id": "project-06",
+    "title": "RAG-Based Content Intelligence",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Amazon / AI work",
+    "description": "Worked with retrieval-augmented generation approaches to retrieve relevant information and provide grounded AI-generated responses or summaries from content/metadata sources.",
+    "tags": [
+      "Backend",
+      "Cloud systems"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "RAG Content Intelligence",
+    "short": [
+      "RAG",
+      "Content Intelligence"
+    ]
+  },
+  {
+    "number": 7,
+    "id": "project-07",
+    "title": "Industrial Optimization & Intelligent Alerting",
+    "group": "professional",
+    "category": "Professional Software & AI",
+    "status": "Exert Infotech",
+    "description": "Developed Java/Spring Boot and AI-oriented services for industrial environments, including optimization workflows, intelligent/agent-based alerts, and integration with Azure IoT and connected systems.",
+    "tags": [
+      "Spring Boot",
+      "Java"
+    ],
+    "diagram": [
+      "Requirements",
+      "Software systems",
+      "Integration"
+    ],
+    "displayTitle": "Industrial Optimization",
+    "short": [
+      "Industrial",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "adaptive",
+    "title": "Adaptive Focus Dashboard",
+    "short": [
+      "Adaptive Focus",
+      "Dashboard"
+    ],
+    "category": "SOFTWARE / HUMAN–COMPUTER INTERACTION",
+    "status": "AI-assisted coursework · 2026",
+    "description": "An HTML, CSS, and JavaScript application exploring adaptive interfaces through an adaptive learning engine. The coursework package includes application source, automated tests, screenshots, documentation, and an APA report covering usability, privacy, accessibility, and user control. A public repository has not been verified.",
+    "tags": [
+      "JavaScript",
+      "HTML / CSS",
+      "Adaptive UI",
+      "Testing"
+    ],
+    "diagram": [
+      "User behavior",
+      "Learning engine",
+      "Adaptive UI"
+    ],
+    "number": null,
+    "group": "professional",
+    "displayTitle": "Adaptive Focus Dashboard"
+  },
+  {
+    "number": 8,
+    "id": "project-08",
+    "title": "Agentic AI for Water Systems Optimization",
+    "group": "ai",
+    "category": "AI / ML Projects",
+    "status": "Portfolio project",
+    "description": "Developed an AI-driven optimization concept combining multi-agent reinforcement learning and LLM reasoning for water/infrastructure systems. The system modeled operational constraints and produced approximately a 19% modeled efficiency improvement in simulation.",
+    "tags": [
+      "AI / ML",
+      "Systems integration"
+    ],
+    "diagram": [
+      "Knowledge / data",
+      "AI pipeline",
+      "Evaluation"
+    ],
+    "displayTitle": "Water Systems AI",
+    "short": [
+      "Water",
+      "Systems AI"
+    ]
+  },
+  {
+    "number": 9,
+    "id": "project-09",
+    "title": "Autonomous LLM-Based Knowledge Assistant",
+    "group": "ai",
+    "category": "AI / ML Projects",
+    "status": "Portfolio project",
+    "description": "Built an autonomous knowledge assistant using agentic RAG. Technologies included LangChain, AutoGen, Azure Machine Learning, and Databricks, with agents retrieving information, reasoning over retrieved knowledge, and generating grounded responses.",
+    "tags": [
+      "LangChain",
+      "AutoGen",
+      "Azure Machine Learning",
+      "Databricks"
+    ],
+    "diagram": [
+      "Knowledge / data",
+      "AI pipeline",
+      "Evaluation"
+    ],
+    "displayTitle": "Knowledge Assistant",
+    "short": [
+      "Knowledge",
+      "Assistant"
+    ]
+  },
+  {
+    "number": 10,
+    "id": "project-10",
+    "title": "Smart Infrastructure Forecasting",
+    "group": "ai",
+    "category": "AI / ML Projects",
+    "status": "Portfolio project",
+    "description": "Developed a TensorFlow-based predictive system for infrastructure forecasting. The model achieved approximately 94% pilot accuracy, demonstrating how ML could support predictive decision-making for infrastructure operations.",
+    "tags": [
+      "TensorFlow"
+    ],
+    "diagram": [
+      "Knowledge / data",
+      "AI pipeline",
+      "Evaluation"
+    ],
+    "displayTitle": "Infrastructure Forecasting",
+    "short": [
+      "Infrastructure",
+      "Forecasting"
+    ]
+  },
+  {
+    "number": 11,
+    "id": "project-11",
+    "title": "ShiftSage – Grounded LLM Chatbot for Warehouse IT Support",
+    "group": "ai",
+    "category": "AI / ML Projects",
+    "status": "Portfolio project",
+    "description": "Built a RAG-based IT support chatbot designed around real warehouse problems involving SAP, Honeywell RF scanners, Zebra printers, networking, and IT troubleshooting. Served as an integration/project lead, working on the Gradio interface, retrieval-to-generation pipeline, system integration, and final demo. Technologies included Python, FAISS, Sentence Transformers, Hugging Face Transformers, Qwen/TinyLlama, and Gradio.",
+    "tags": [
+      "FAISS",
+      "Sentence Transformers",
+      "Hugging Face Transformers",
+      "Qwen",
+      "TinyLlama"
+    ],
+    "diagram": [
+      "Knowledge / data",
+      "AI pipeline",
+      "Evaluation"
+    ],
+    "displayTitle": "ShiftSage IT Support",
+    "short": [
+      "ShiftSage",
+      "IT Support"
+    ]
+  },
+  {
+    "number": 12,
+    "id": "project-12",
+    "title": "Enterprise IT Infrastructure Management & Modernization",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Managing and improving the Savannah facility's IT environment, including Windows Server, Active Directory, VMware, networking, Microsoft 365, SAP-related infrastructure, servers, endpoints, storage, printers, and enterprise hardware. Work includes troubleshooting, upgrades, reliability improvements, security, and infrastructure planning.",
+    "tags": [
+      "Windows Server",
+      "Active Directory",
+      "VMware",
+      "Microsoft 365",
+      "SAP"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Enterprise IT Modernization",
+    "short": [
+      "Enterprise",
+      "IT Modernization"
+    ]
+  },
+  {
+    "number": 13,
+    "id": "project-13",
+    "title": "VMware & Windows Server Infrastructure Support",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Worked with VMware ESXi hosts and Windows Server environments, including virtual-server availability, remote access, KVM/iDRAC troubleshooting, server connectivity, and legacy infrastructure support.",
+    "tags": [
+      "Windows Server",
+      "VMware"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "VMware & Windows Server",
+    "short": [
+      "VMware &",
+      "Windows Server"
+    ]
+  },
+  {
+    "number": 14,
+    "id": "project-14",
+    "title": "Enterprise Network & Connectivity Management",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Worked on LAN/Wi-Fi connectivity, VLANs, switches, firewall-related infrastructure, DHCP/DNS, network drives, endpoint connectivity, and diagnosing network availability issues across the facility.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Network Management",
+    "short": [
+      "Network",
+      "Management"
+    ]
+  },
+  {
+    "number": 15,
+    "id": "project-15",
+    "title": "Warehouse Zebra Printing Infrastructure",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Managed and troubleshot Zebra ZT410/ZT411 industrial label printers, including network/IP configuration, SAP printing integration, print-server configuration, factory resets, label formatting, calibration, and print-quality issues.",
+    "tags": [
+      "SAP",
+      "Zebra"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Zebra Warehouse Printing",
+    "short": [
+      "Zebra",
+      "Warehouse Printing"
+    ]
+  },
+  {
+    "number": 16,
+    "id": "project-16",
+    "title": "SAP Warehouse RF Device Integration",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Supported warehouse RF workflows involving Honeywell CK67 devices, SAP RFUI, Enterprise Browser, Zebra printers, and wireless connectivity. Troubleshooting included device configuration, locked launcher environments, SAP display scaling/font issues, and warehouse workflow reliability.",
+    "tags": [
+      "SAP",
+      "Honeywell",
+      "Zebra"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "SAP RF Device Integration",
+    "short": [
+      "SAP RF",
+      "Device Integration"
+    ]
+  },
+  {
+    "number": 17,
+    "id": "project-17",
+    "title": "Enterprise Printer & Print Server Management",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Managed network printers and Windows print-server infrastructure, including printer deployment, shared printer configuration, naming, network connectivity, drivers, and troubleshooting printing problems across employee workstations.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Print Server Management",
+    "short": [
+      "Print",
+      "Server Management"
+    ]
+  },
+  {
+    "number": 18,
+    "id": "project-18",
+    "title": "Endpoint Provisioning & Windows 11 Modernization",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Provisioned and upgraded company PCs, including Windows installations from USB, Windows 11 compatibility checks, BIOS/boot configuration, device drivers, docking stations, displays, peripherals, and software deployment.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Windows 11 Modernization",
+    "short": [
+      "Windows",
+      "11 Modernization"
+    ]
+  },
+  {
+    "number": 19,
+    "id": "project-19",
+    "title": "Enterprise Hardware & Conference Room Modernization",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Researched and evaluated large-format TVs and interactive displays for conference rooms/offices, including Samsung, LG CreateBoard, SMART Board and other commercial/consumer displays, along with mounting solutions, Teams/Zoom compatibility, warranty, touch functionality, and cost.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Conference Room Technology",
+    "short": [
+      "Conference",
+      "Room Technology"
+    ]
+  },
+  {
+    "number": 20,
+    "id": "project-20",
+    "title": "IT Asset Lifecycle & Hardware Standardization",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Evaluated laptops, displays, printers, RF devices, conference-room technology, and other enterprise hardware to improve purchasing decisions, standardization, lifecycle management, and reliability.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "IT Asset Lifecycle",
+    "short": [
+      "IT",
+      "Asset Lifecycle"
+    ]
+  },
+  {
+    "number": 21,
+    "id": "project-21",
+    "title": "Remote Support & TeamViewer Troubleshooting",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Worked on remote-support infrastructure and TeamViewer connectivity, including UAC/admin-elevation problems and sessions disconnecting during privileged operations.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Remote Support",
+    "short": [
+      "Remote",
+      "Support"
+    ]
+  },
+  {
+    "number": 22,
+    "id": "project-22",
+    "title": "Industrial Device & Engineering Software Support",
+    "group": "infrastructure",
+    "category": "Enterprise Infrastructure",
+    "status": "Strength of Nature",
+    "description": "Supported specialized industrial/engineering systems including FieldCare SFE500, Ecograph devices, Dormakaba/DSX access-control systems, SQL-connected applications, and other manufacturing/facility technologies.",
+    "tags": [
+      "Enterprise IT",
+      "Operations"
+    ],
+    "diagram": [
+      "Infrastructure",
+      "Integration",
+      "Reliable operations"
+    ],
+    "displayTitle": "Industrial Device Support",
+    "short": [
+      "Industrial",
+      "Device Support"
+    ]
+  },
+  {
+    "number": 23,
+    "id": "project-23",
+    "title": "NutriGuide – RAG Nutrition Chatbot",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "AI/HCI",
+    "description": "Built a RAG chatbot grounded in the USDA Dietary Guidelines. The project involved document chunking, embeddings, FAISS retrieval, response generation, and a relevance guardrail designed to prevent the chatbot from confidently answering questions unsupported by its knowledge base.",
+    "tags": [
+      "FAISS"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "NutriGuide RAG Chatbot",
+    "short": [
+      "NutriGuide",
+      "RAG Chatbot"
+    ]
+  },
+  {
+    "number": 24,
+    "id": "project-24",
+    "title": "Conversational Recommendation System",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "AI/HCI",
+    "description": "Built a conversational recommender using TF-IDF and cosine similarity, combined with a mixed-initiative dialogue manager. The system determined when sufficient information existed to recommend something versus when it should ask the user additional clarifying questions.",
+    "tags": [
+      "TF-IDF",
+      "cosine similarity"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "Conversational Recommender",
+    "short": [
+      "Conversational",
+      "Recommender"
+    ]
+  },
+  {
+    "number": 25,
+    "id": "project-25",
+    "title": "AI-Based Bias Analysis Project",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "MSAI",
+    "description": "Researched bias in AI systems, including causes of algorithmic bias, real-world examples, mitigation approaches, ethical implications, and methods for developing more responsible AI systems.",
+    "tags": [
+      "AI / HCI",
+      "Research"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "AI Bias Analysis",
+    "short": [
+      "AI",
+      "Bias Analysis"
+    ]
+  },
+  {
+    "number": 26,
+    "id": "project-26",
+    "title": "Accessibility & Responsible AI Evaluation",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "MSAI",
+    "description": "Evaluated accessibility guidelines and tools while examining their legal and ethical implications. Covered accessibility, privacy, transparency, responsible system design, and practical accessibility-testing tools.",
+    "tags": [
+      "AI / HCI",
+      "Research"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "Accessibility Evaluation",
+    "short": [
+      "Accessibility",
+      "Evaluation"
+    ]
+  },
+  {
+    "number": 27,
+    "id": "project-27",
+    "title": "Ethical Challenges in AI/HCI",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "MSAI",
+    "description": "Analyzed ethical issues arising from AI-driven human-computer interaction, supported by scholarly research and practical examples/screenshots.",
+    "tags": [
+      "AI / HCI",
+      "Research"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "Ethics in AI / HCI",
+    "short": [
+      "Ethics in",
+      "AI / HCI"
+    ]
+  },
+  {
+    "number": 28,
+    "id": "project-28",
+    "title": "AI User-Centric Design Evaluation",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "MSAI",
+    "description": "Studied and applied user-centered AI/HCI principles, including usability, trust, explainability, interaction design, and evaluating whether AI systems are genuinely user-friendly.",
+    "tags": [
+      "AI / HCI",
+      "Research"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "User-Centric AI Design",
+    "short": [
+      "User-Centric",
+      "AI Design"
+    ]
+  },
+  {
+    "number": 29,
+    "id": "project-29",
+    "title": "Chatbots vs. Virtual Assistants Comparative Study",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "MSAI",
+    "description": "Analyzed architectural, interaction, capability, and user-experience differences between chatbots and virtual assistants and evaluated appropriate use cases for each.",
+    "tags": [
+      "AI / HCI",
+      "Research"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "Chatbots vs Assistants",
+    "short": [
+      "Chatbots",
+      "vs Assistants"
+    ]
+  },
+  {
+    "number": 30,
+    "id": "project-30",
+    "title": "AI Risk Management Studies",
+    "group": "academic",
+    "category": "Academic AI & HCI",
+    "status": "MSAI-632",
+    "description": "Current academic work focused on applying AI to risk-management problems, including how intelligent systems can identify, evaluate, predict, and mitigate organizational risks.",
+    "tags": [
+      "AI / HCI",
+      "Research"
+    ],
+    "diagram": [
+      "Research question",
+      "Analysis",
+      "Findings"
+    ],
+    "displayTitle": "AI Risk Management",
+    "short": [
+      "AI",
+      "Risk Management"
+    ]
+  },
+  {
+    "number": 31,
+    "id": "project-31",
+    "title": "Student Performance Regression Analysis",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Analyzed a dataset of 156 students relating study/marketing hours to points/performance. Built scatterplots and regression models, tested model parameters at α = 0.01, evaluated R², generated predictions, and calculated thresholds required to achieve target outcomes.",
+    "tags": [
+      "Data analysis",
+      "Visualization"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Student Regression",
+    "short": [
+      "Student",
+      "Regression"
+    ]
+  },
+  {
+    "number": 32,
+    "id": "project-32",
+    "title": "Fortune 500 Sector Exploratory Analysis",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Conducted exploratory data analysis and visualization on Fortune 500 sector data, identifying relationships and trends using charts and trendlines.",
+    "tags": [
+      "Data analysis",
+      "Visualization"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Fortune 500 Analysis",
+    "short": [
+      "Fortune",
+      "500 Analysis"
+    ]
+  },
+  {
+    "number": 33,
+    "id": "project-33",
+    "title": "Major Salary Pivot Analysis",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Used spreadsheet pivot tables and visualization techniques to analyze salary information across academic majors/categories and identify meaningful patterns.",
+    "tags": [
+      "Data analysis",
+      "Visualization"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Salary Pivot Analysis",
+    "short": [
+      "Salary",
+      "Pivot Analysis"
+    ]
+  },
+  {
+    "number": 34,
+    "id": "project-34",
+    "title": "Wait-Time Descriptive Statistics & Box Plot Analysis",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Applied descriptive statistics, distributions, and box plots to evaluate wait-time data and identify variability, central tendencies, and outliers.",
+    "tags": [
+      "Data analysis",
+      "Visualization"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Wait-Time Statistics",
+    "short": [
+      "Wait-Time",
+      "Statistics"
+    ]
+  },
+  {
+    "number": 35,
+    "id": "project-35",
+    "title": "Baseball Analytics Dashboard",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Created a spreadsheet/dashboard-oriented analytics project using baseball data, combining visualization and analytical techniques to communicate performance metrics.",
+    "tags": [
+      "Data analysis",
+      "Visualization"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Baseball Dashboard",
+    "short": [
+      "Baseball",
+      "Dashboard"
+    ]
+  },
+  {
+    "number": 36,
+    "id": "project-36",
+    "title": "Cox Electric Profitability Model",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Built an Excel-based financial model using fixed cost, variable material/labor costs, revenue per unit, and production volume to calculate profitability and break-even behavior. Included an influence diagram, mathematical model, and spreadsheet implementation.",
+    "tags": [
+      "Excel"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Cox Electric Profit Model",
+    "short": [
+      "Cox Electric",
+      "Profit Model"
+    ]
+  },
+  {
+    "number": 37,
+    "id": "project-37",
+    "title": "Retirement Planning Financial Model",
+    "group": "analytics",
+    "category": "Data Analytics & Visualization",
+    "status": "Coursework",
+    "description": "Developed a spreadsheet model for retirement planning using assumptions around age, contributions, investment growth, and retirement objectives to demonstrate financial decision modeling.",
+    "tags": [
+      "Data analysis",
+      "Visualization"
+    ],
+    "diagram": [
+      "Source data",
+      "Analysis / model",
+      "Insights"
+    ],
+    "displayTitle": "Retirement Model",
+    "short": [
+      "Retirement",
+      "Model"
+    ]
+  },
+  {
+    "number": 38,
+    "id": "project-38",
+    "title": "Savannah Social Circle / Community Group",
+    "group": "community",
+    "category": "Community & Digital Content",
+    "status": "Community project",
+    "description": "Created and organized a Savannah-area social community for students, professionals, newcomers, and people looking to make friends. Developed the group identity, description, invitation messaging, polls, activity planning, and engagement strategy. Organized activities including pickleball at Lake Mayer, volleyball, bowling, camping, and future outings.",
+    "tags": [
+      "Digital content",
+      "Community"
+    ],
+    "diagram": [
+      "Concept",
+      "Content / outreach",
+      "Engagement"
+    ],
+    "displayTitle": "Savannah Social Circle",
+    "short": [
+      "Savannah",
+      "Social Circle"
+    ]
+  },
+  {
+    "number": 39,
+    "id": "project-39",
+    "title": "SGVP Gurukul Savannah Digital Content Project",
+    "group": "community",
+    "category": "Community & Digital Content",
+    "status": "Community project",
+    "description": "Created a digital/social-media campaign around SGVP Gurukul USA / Shri Swaminarayan Sanatan Temple in Savannah, including event posters, Instagram reel concepts, captions, reviews, AI animation prompts, cinematic image-to-video prompts, devotional content, and event recap material.",
+    "tags": [
+      "Digital content",
+      "Community"
+    ],
+    "diagram": [
+      "Concept",
+      "Content / outreach",
+      "Engagement"
+    ],
+    "displayTitle": "SGVP Digital Content",
+    "short": [
+      "SGVP",
+      "Digital Content"
+    ]
+  },
+  {
+    "number": 40,
+    "id": "project-40",
+    "title": "Shraavan Darshan & Indian Independence Day Event Recap",
+    "group": "community",
+    "category": "Community & Digital Content",
+    "status": "Community project",
+    "description": "Developed multimedia material for the August 15 Shraavan Darshan + Indian Independence Day Celebration, including an animated intro/poster concept and cinematic recap content highlighting the SPCS Group from Charlotte and devotees attending the event.",
+    "tags": [
+      "Digital content",
+      "Community"
+    ],
+    "diagram": [
+      "Concept",
+      "Content / outreach",
+      "Engagement"
+    ],
+    "displayTitle": "Event Recap Production",
+    "short": [
+      "Event",
+      "Recap Production"
+    ]
+  },
+  {
+    "number": 41,
+    "id": "project-41",
+    "title": "AI-Assisted Devotional Video/Reel Production",
+    "group": "community",
+    "category": "Community & Digital Content",
+    "status": "Community project",
+    "description": "Designed a workflow for converting temple/event photography into cinematic devotional videos using generative AI tools such as Kling-style image-to-video generation, camera-motion prompting, logo animation, cinematic transitions, music selection, and Instagram reel editing.",
+    "tags": [
+      "Digital content",
+      "Community"
+    ],
+    "diagram": [
+      "Concept",
+      "Content / outreach",
+      "Engagement"
+    ],
+    "displayTitle": "AI Devotional Reels",
+    "short": [
+      "AI",
+      "Devotional Reels"
+    ]
+  }
+]
